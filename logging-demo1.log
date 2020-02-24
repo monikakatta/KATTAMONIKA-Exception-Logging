@@ -1,0 +1,18 @@
+2020-02-24 14:42:05 INFO  App:20 - simple interest is: 40.0
+2020-02-24 14:42:05 INFO  App:22 - compound interest is: 21433.477
+2020-02-24 14:42:05 INFO  App:23 - 1:1200INR if we use standard materials
+2:1500INR if we use above standard materials
+3: 1800INR if customers needs high standard material
+4: 2500INR if customer needs high standard material and fully
+automated home
+
+2020-02-24 14:42:05 INFO  App:28 - enter the type of material:
+
+2020-02-24 14:42:09 INFO  App:30 - total area of house:
+
+2020-02-24 14:42:14 INFO  App:33 - total cost for construction is :24000INR
+2020-02-24 14:42:14 DEBUG App:34 - this is debug logger
+2020-02-24 14:42:14 INFO  App:35 - this is info logger
+2020-02-24 14:42:14 WARN  App:36 - this is warn logger
+2020-02-24 14:42:14 ERROR App:37 - this is error logger
+2020-02-24 14:42:14 FATAL App:38 - this is fatal logger
